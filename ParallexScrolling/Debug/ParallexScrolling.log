@@ -1,0 +1,3 @@
+﻿  SFML.cpp
+D:\Computer_Science\Game Programming\Courses\Math\Math\ParallexScrolling\SFML.cpp(66,70): warning C4305: 'argument': truncation from 'double' to 'float'
+  ParallexScrolling.vcxproj -> D:\Computer_Science\Game Programming\Courses\Math\Math\Debug\ParallexScrolling.exe

@@ -1,0 +1,5 @@
+﻿  SFML.cpp
+D:\Computer_Science\Game Programming\Courses\Math\Math\BezierCurve\SFML.cpp(46,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Computer_Science\Game Programming\Courses\Math\Math\BezierCurve\SFML.cpp(47,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Computer_Science\Game Programming\Courses\Math\Math\BezierCurve\SFML.cpp(48,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+  BezierCurve.vcxproj -> D:\Computer_Science\Game Programming\Courses\Math\Math\Debug\BezierCurve.exe

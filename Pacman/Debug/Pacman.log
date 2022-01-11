@@ -1,0 +1,3 @@
+﻿  SFML.cpp
+D:\Computer_Science\Game Programming\Courses\Math\Math\Pacman\SFML.cpp(74,50): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+  Pacman.vcxproj -> D:\Computer_Science\Game Programming\Courses\Math\Math\Debug\Pacman.exe

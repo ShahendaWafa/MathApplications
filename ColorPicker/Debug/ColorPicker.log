@@ -1,0 +1,5 @@
+﻿  SFML.cpp
+D:\Computer_Science\Game Programming\Courses\Math\Math\ColorPicker\SFML.cpp(22,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Computer_Science\Game Programming\Courses\Math\Math\ColorPicker\SFML.cpp(23,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Computer_Science\Game Programming\Courses\Math\Math\ColorPicker\SFML.cpp(24,19): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+  ColorPicker.vcxproj -> D:\Computer_Science\Game Programming\Courses\Math\Math\Debug\ColorPicker.exe
